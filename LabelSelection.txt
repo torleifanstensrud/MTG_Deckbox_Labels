@@ -1,0 +1,24 @@
+0,	-0.4,	-1.3,	Balthor the Defiled.jpg
+0,	0,	-1.2,	Chainer, Nightmare Adept.jpg
+0,	-0.4,	-1.2,	Etali, Primal Storm.jpg
+0,	0,	-1.21,	Feather, the Redeemed.jpg
+0,	0.2,	-1.2,	Ghave, Guru of Spores.jpg
+0,	0.2,	-1.2,	Gisa and Geralf.jpg
+0,	0,	-1.19,	Isperia the Inscrutable.jpg
+0,	-0.1,	-1.2,	Jarad, Golgari Lich Lord.jpg
+0,	-0.2,	-1.25,	Kadena, Slinking Sorcerer.jpg
+0,	0.5,	-1.2,	Marchesa, the Black Rose.jpg
+0,	0,	-1.2,	Mayael the Anima.jpg
+0,	-0.6,	-1.2,	Omnath, Locus of Mana.jpg
+0,	0.15,	-1.24,	Tatyova, Benthic Druid.jpg
+0,	0.2,	-1.2,	Teshar, Ancestor's Apostle.jpg
+0,	0.1,	-1.15,	Trostani, Selesnya's Voice.jpg
+0,	0,	-1.2,	Wort, the Raidmother.jpg
+0,	0,	-1.17,	Zur the Enchanter.jpg
+0,	-0.5,	-1.23,	Kenrith, the Returned King.jpg
+0,	0.6,	-1.23,	Firja, Judge of Valor.jpg
+1,	0.1,	-1.23,	Aegar, the Freezing Flame.jpg
+1,	0.1,	-1.23,	Averna, the Chaos Bloom.jpg
+1,	-0.6,	-1.23,	Galea, Kindler of Hope.jpg
+1,	0,	-1.25,	Ghen, Arcanum Weaver.jpg
+1,	0.6,	-1.23,	Kefnet the Mindful.jpg
